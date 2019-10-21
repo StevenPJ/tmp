@@ -1,0 +1,4 @@
+{
+  "orderId": "${ORDER_ID}",
+  "cardToken": "${CARD_TOKEN}"
+}
